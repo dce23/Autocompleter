@@ -1,7 +1,7 @@
 Autocompleter
 
-• Created a program that computes the top 3 completions of any word quickly
+• Created a program that computes the top 3 completions of any 293,147 common English words quickly
 
-• Developed with a balanced BST to mange the number of frequencies a word was typed by a user
+• Developed with a Balanced Binary Search Tree to manage the number of frequencies a word was typed by a user
 
-• Increased run time toO(1) worst-case, to achieve this run-time a trie was Implemented
+• Increased run time to O(1) worst-case, to achieve this run-time a Trie was Implemented
